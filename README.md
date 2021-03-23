@@ -1,2 +1,2 @@
-# audits
-ThunderSawp Contract Audit reports.
+# ThunderSwap Audit Reports
+ThunderSawp Contract Audit reports. Please feel free to review.
